@@ -28,3 +28,5 @@ The base for the **Source2 game engine**. Tested in **Deadlock**. Used IOCTL dri
 [To update Deadlock offsets ](https://a2x.github.io/cs2-analyzer/)
 
 [Game hacking forum thread](https://www.unknowncheats.me/forum/deadlock/)
+
+[Source2sdk](https://github.com/neverlosecc/source2sdk) 
